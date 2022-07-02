@@ -1,2 +1,2 @@
 # springboot-kotlin-demo
-Using Kotlin + Gradle build for Springboot demo.
+Using Kotlin + Gradle built for Springboot demo.
